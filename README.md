@@ -1,14 +1,13 @@
-
-**# 🌐 Live Demo**
+# 🌐 Live Demo
 Check out the live demo of the Real Estate Landing Page hosted on Netlify: Real Estate Landing Page
 
 https://real-estate-myhome.netlify.app/
 
-**#🏠 Real Estate Landing Page**
+#🏠 Real Estate Landing Page
 
 A Real Estate Landing Page built with React that delivers an engaging and modern interface with animations powered by AOS (Animate On Scroll). This project showcases property listings, highlights unique selling points, and offers smooth scrolling animations to capture user attention and deliver a premium browsing experience.
 
-**#🌟 Features**
+#🌟 Features
 
 Elegant Design: A sleek and clean design tailored to the real estate industry.
 Smooth Animations: Integrated with AOS to add scroll-triggered animations, providing a seamless user experience.
